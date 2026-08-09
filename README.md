@@ -64,7 +64,6 @@ The dashboard enables the business to:
 - Prioritize high-value categories such as Electronics, which contributes approximately 43% of total revenue, for targeted inventory and promotional strategies.
 - Identify regional opportunities by comparing revenue and sales volume, particularly the gap between Asia's high unit volume and lower revenue contribution.
 - Monitor revenue trends and investigate the post-March decline to identify potential seasonal, pricing, or demand-related factors.
-- Optimize product strategy by identifying high-revenue products and distinguishing between products that drive sales volume versus those that drive revenue.
 - Improve customer strategy by analyzing payment preferences and transaction behavior to support more targeted promotions, payment optimization, and revenue-growth initiatives.
 
 
