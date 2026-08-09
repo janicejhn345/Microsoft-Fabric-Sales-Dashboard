@@ -11,12 +11,12 @@ The solution follows an end-to-end Microsoft Fabric workflow, from data ingestio
 ## 🛠️ Tools & Technologies
 
 - Microsoft Fabric
-- Data Pipeline — Data ingestion
-- Lakehouse — Data storage and processing
-- Notebook — Data transformation and preparation
-- Warehouse — Structured analytical storage
-- Semantic Model — Data modeling and reporting layer
-- Power BI Report — Interactive dashboard and visualization
+- Data Pipeline - Data ingestion
+- Lakehouse - Data storage and processing
+- Notebook - Data transformation and preparation
+- Warehouse - Structured analytical storage
+- Semantic Model - Data modeling and reporting layer
+- Power BI Report - Interactive dashboard and visualization
 
 ## 🎯 Business Problem
 
